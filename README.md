@@ -5,7 +5,7 @@ I'm a software developer who loves Bloodborne!
 ## What I'm Working On
 - 👨‍💻 Android Development – building apps using **Kotlin**, **Jetpack Compose**, **Java**, and **XML**
 - 🔧 A full-stack web app for managing memberships and services using **React**, **Go**, and **AWS**
-- 🎮 Game development (participated in **Women Game Jam 2024** with a Unity project and **Lima Game Jam 2025** with a Godot project)
+- 🎮 Game development (participated in **Women Game Jam 2024** and **Lima Game Jam 2025**)
 - 🎨 Learning **Figma** to design better UIs and MVPs
 
 ## Learning & Interests
