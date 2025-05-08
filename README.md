@@ -1,6 +1,4 @@
-# 👋 Hi there!
-
-I'm a software developer who loves Bloodborne!
+### Software developer who loves Bloodborne!
 
 ## What I'm Working On
 - 👨‍💻 Android Development – building apps using **Kotlin**, **Jetpack Compose**, **Java**, and **XML**
