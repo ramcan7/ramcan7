@@ -16,8 +16,8 @@ I'm based in 🇵🇪 and aiming to work remotely with teams around the world. A
 
 ## Tech Stack
 - **Mobile**: Kotlin, Java, XML (Jetpack Compose in progress)
-- **Frontend**: HTML5, CSS3, JavaScript (React in progress)
-- **Backend**: C# (Go in Progress)
+- **Frontend**: HTML5, CSS3, JavaScript, React with Typescript
+- **Backend**: C#, Go
 - **Game Dev**: Unity and Godot-GDScript
 <!--how to reach me-->
 
