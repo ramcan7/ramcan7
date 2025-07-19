@@ -4,11 +4,10 @@
 - 👨‍💻 Android Development – building apps using **Kotlin**, **Jetpack Compose**, **Java**, and **XML**
 - 🔧 A full-stack web app for managing memberships and services using **React**, **Go**, and **AWS**
 - 🎮 Game development (participated in **Women Game Jam 2024** and **Lima Game Jam 2025**)
-- 🎨 Learning **Figma** to design better UIs and MVPs
 
 ## Learning & Interests
+- Computer graphics and animation!
 - Design patterns & SOLID principles
-- Animation and computer graphics
 - Marketing for games
   
 ## Let's Connect!
@@ -19,7 +18,6 @@ I'm based in 🇵🇪 and aiming to work remotely with teams around the world. A
 - **Frontend**: HTML5, CSS3, JavaScript, React with Typescript
 - **Backend**: C#, Go
 - **Game Dev**: Unity and Godot-GDScript
-<!--how to reach me-->
 
 ---
 🛠️ *Work in progress*
